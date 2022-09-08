@@ -1,0 +1,37 @@
+*Set up:
+    - Nodemon run file index in API folder: "./api/index"
+    - .env: because gobal varibel file .env in main folder.
+*React-router-dom: v6
+    - Switch -> Routes    
+    - Redirect -> Navigate
+*React .env: not work
+    - REACT_APP_: assgin wrong name
+    - stop and reset server again -> update code
+! not neccesery install dontev and .env(root folder)
+
+(?:
+* Share css: lack of knowledge about Display Flex.
+    - more specific: shareOptions and shareItem
+
+*Project: mình xem project có code rồi những vẫn phải xem video -> có cách nào chỉ xem source là hiểu
+Cách xem ntn để hiểu luồng hoạt động
+    với đống code THÌ mình nên tập trung vào cái phần gì.
+
+
+
+## / nhiều về xử lý logic(Fe) và backend và Sao kết nối BE và FE.
+
+
+* chuyeenr tuwf 3000 -> 3001 thif cient vaf api connect voi nhau.
+
+
+
+===============================================================
+Profile: get user từ homepage
+fetch ở feed: lấy đúng post
+Fetch ở rightbar: get info
+Top: lấy hình đại diện.
+
+
+
+hhre: mai lam voi like: chi it code va call api la xog.

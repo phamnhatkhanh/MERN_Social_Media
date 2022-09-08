@@ -1,0 +1,36 @@
+ - Code: mình muốn tự code hết 
+    -> quen cú pháp + nhớ CHỨ copy quên hết.
+ - Tiếp cận:
+    1. Read code of project 
+        + Know participle, module in project: significant, do something.
+        + Note: part or code __ don't understanding -> because watching video and research
+ * # need know through project:
+    - process build web ???
+    - BE and FE -> how they contact with togetther.
+
+====================================================================================================================================================
+*Connect mongodb:
+    1. Cloud: Create DB  -> get link
+    2. Install dotenv + create file .env -> assgin macro for project
+        After easay update if change to new environment.
+        ! add code in file Index.js: dotenv.config() -> get name  code (in .env) to index.js
+    3. Index.js: add code connect MongoDB.
+
+*Push first data to DB: 
+  *input push data: actual call APi but different place call API:
+    - server: handmade data
+    - Postman: use handmade data and send THEN server handel data through parameter
+  *regularly err:
+    - Cloud(Network): not add IP
+    - Node.js: Asycn and await.
+
+#app.get("/api/users",(usersRouter)): 
+    - must use not get
+    - if want (usersRouter): must export.
+
+*Access Db again -> rest IP
+
+
+
+Express, mongdb do chưa làm nièu nên -> dù sai ở chỗ connect không mà phải mò cả buổi.
+    ko bk cách test luôn.
